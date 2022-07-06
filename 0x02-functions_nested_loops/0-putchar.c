@@ -1,14 +1,20 @@
-include "main.h"
-		 /**
-			 * main - Entry point
-			  *
-			 * Return: Always 0 (Success)
-			  *
-			 */
+#include "main.h"
 
 
 
-				 int main(void)
+/**
+ *
+ * * main - Entry point
+ *
+ * *
+ *
+ * * Return: Always 0 (Success)
+ *
+ * */
+
+
+
+int main(void)
 
 {
 
@@ -26,7 +32,10 @@ include "main.h"
 
 											i++;
 
-											
+												}
+
 					return (0);
 
 }
+
+
